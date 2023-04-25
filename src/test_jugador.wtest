@@ -3,7 +3,7 @@ import armas.*
 import jugadoresPersonajes.*
 import elementos.*
 
-test "Luisa cn Mario bros se encuentra a aurora en el castillo" {
+test "Luisa con Mario bros se encuentra a aurora en el castillo" {
 	luisa.personajeActivo(mario)
 	luisa.aparece(aurora)
 	luisa.aparece(castillo)
